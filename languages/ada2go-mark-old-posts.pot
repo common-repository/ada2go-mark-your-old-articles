@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mark old postings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-30 13:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: ada2go-mark-old-posts"
+
+#: settings_page.php:61
+msgid "&Auml;nderungen speichern"
+msgstr ""
+
+#: settings_page.php:51
+msgid "15552000 f&uuml;r 6 Monate"
+msgstr ""
+
+#: settings_page.php:49
+msgid "2678400 f&uuml;r 31 Tage"
+msgstr ""
+
+#: settings_page.php:50
+msgid "7776000 f&uuml;r 3 Monate"
+msgstr ""
+
+#: settings_page.php:72
+msgid "Alle Beitr&auml;ge auf einmal aktualisieren!"
+msgstr ""
+
+#: settings_page.php:95
+msgid "Bearbeiten"
+msgstr ""
+
+#: settings_page.php:47
+msgid "Beispiel:"
+msgstr ""
+
+#: settings_page.php:74
+msgid ""
+"Damit du nicht lange rumsuchen musst, hier eine Liste aller Beitr&auml;ge, "
+"die durch das Plugin markiert wurden:"
+msgstr ""
+
+#: settings_page.php:68
+msgid ""
+"Diese Klasse ist f&uuml;r das Design und die Position der Box verantwortlich"
+msgstr ""
+
+#: settings_page.php:67
+msgid ""
+"Diese Klasse ist f&uuml;r den Text in der angezeigten Box verantwortlich."
+msgstr ""
+
+#: ada2go-mark-old-posts.php:156
+msgid ""
+"Dieser Beitrag wurde vor &uuml;ber 6 Monaten aktualisiert. Gerade die "
+"rechtlichen Themen k&ouml;nnten nicht mehr aktuell sein."
+msgstr ""
+
+#: settings_page.php:27
+msgid "Erldigt! Alles gespeichert!"
+msgstr ""
+
+#: settings_page.php:57
+msgid ""
+"Falls gew&uuml;nscht, kannst du den Platzhalter %sec% verwenden. Dieser wird "
+"durch die Tage ersetzt. Beispiel \"Dieser Beitrag ist schon %sec% Tage alt.\""
+msgstr ""
+
+#. Author of the plugin
+msgid "Heiko von ada2go.de"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ada2go.de/"
+msgstr ""
+
+#: settings_page.php:71
+msgid "Liste aller markierten Beitr&auml;ge"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mark old postings"
+msgstr ""
+
+#: settings_page.php:43
+msgid "Mark Older Posts - Einstellungen"
+msgstr ""
+
+#: settings_page.php:55
+msgid "Nachricht"
+msgstr ""
+
+#: settings_page.php:64
+msgid "Passe dein CSS an"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin marks posts that have not been updated for a long time. In the "
+"standard settings it is 365 days. It is not about the time of publication, "
+"its calculated by the time of the last update. Go to the Settings to change "
+"the Time by Secounds. A list of all marked posts is displayed in the "
+"settings."
+msgstr ""
+
+#: settings_page.php:56
+msgid "Trage hier die Nachricht ein, die angezeigt werden soll."
+msgstr ""
+
+#: settings_page.php:46
+msgid ""
+"Trage hier die Sekundenzahl ein, die genutzt werden soll. Verzichte auf "
+"Komma, Leerzeichen oder Punkt."
+msgstr ""
+
+#: settings_page.php:66
+msgid "Um dein Design anzupassen, kannst du folgende zwei Klassen verwenden:"
+msgstr ""
+
+#: settings_page.php:95
+msgid "Vorschau"
+msgstr ""
+
+#: settings_page.php:45
+msgid "Wieviele Sekunden sollen eingestellt werden?"
+msgstr ""

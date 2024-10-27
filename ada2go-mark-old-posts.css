@@ -1,0 +1,14 @@
+.older-post-hint {
+  padding: 10px;
+  margin-bottom:10px;
+  background-color: yellow;
+  color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+.older-post-text {
+color: black;
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 14px;
+line-height: 14px;
+}
